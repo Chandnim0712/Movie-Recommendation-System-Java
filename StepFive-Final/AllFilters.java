@@ -10,7 +10,7 @@ import java.util.ArrayList;
  *                about average ratings by genre and films on or after a
  *                particular year.
  *
- ****************************************************************/
+ *****************************************************************/
 
 public class AllFilters implements Filter {
     ArrayList<Filter> filters;
