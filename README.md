@@ -15,7 +15,7 @@ In this way, you will receive more accurate recommendation because we've already
 
 
 ### More:
-This is a Capstone project, which is the last Course ([Java Programming: Build a Recommendation System](https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming)) of the <br />
+This is a Capstone project, which is the last Course ( [Java Programming: Build a Recommendation System](https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming)) of the <br />
 [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) that designed by Duke University.
 
 ### Thank you Duke, I have learned a lot from this specialization. Strongly recommend to beginners.
